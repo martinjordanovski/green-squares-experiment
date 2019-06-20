@@ -91,7 +91,7 @@ If you’re hiring, ask candidates to walk you through a change they’re proud 
 ⬛🟩🟩⬛⬛⬛⬛⬛⬛
 ⬛⬛🟩⬛⬛⬛⬛⬛⬛
 ⬛⬛🟩⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛🟩⬛⬛⬛⬛⬛⬛
 ⬛🟩⬛⬛⬛⬛⬛⬛⬛
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ```
