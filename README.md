@@ -53,9 +53,9 @@ git log --format='%h  author: %ad  committer: %cd  %s' --date=short
 
 The author dates go back to 2013. Every committer date is November 2026. Both can be set by hand, so neither proves anything. That’s the point.
 
-## Rethinking how your team hires?
+## Working on the same problems?
 
-If you’re reshaping interviews, career levels, or how engineers grow in an AI-assisted team, I’m happy to share what’s worked for me. [Let’s talk on LinkedIn](https://www.linkedin.com/in/martinjordanovski/).
+I write about engineering leadership and how teams grow in an AI-assisted world. If you're thinking about the same things, I'm always happy to compare notes. [Find me on LinkedIn](https://www.linkedin.com/in/martinjordanovski/).
 
 ## One word per year
 
